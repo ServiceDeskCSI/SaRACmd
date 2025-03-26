@@ -3,6 +3,8 @@ SaRACmd: Remove all version of Office using CMD (M365, 2019, 2016)
 
 Download: https://aka.ms/SaRA_EnterpriseVersionFiles
 
+Archived Version: https://github.com/ServiceDeskCSI/SaRACmd/releases
+
 ## **Available switches for the Office Uninstall scenario**
 
 The following switches are available for this scenario. They aren't case-sensitive. Unless noted as optional, the switches are required to run the scenario. You can use more than one optional switch.
